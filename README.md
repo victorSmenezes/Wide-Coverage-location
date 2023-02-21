@@ -6,5 +6,5 @@ Utilizei o figma onde peguei o layout do site, relembrando alguns conceitos das 
 
 ##
 
-<img src="" />
-<img src="" />
+<img src="https://raw.githubusercontent.com/victorSmenezes/Wide-Coverage-location/fa990c1e5435afd756c1fad3c017546d8c2bea0c/images/Wide-coverage1.png" />
+<img src="https://raw.githubusercontent.com/victorSmenezes/Wide-Coverage-location/fa990c1e5435afd756c1fad3c017546d8c2bea0c/images/Wide-coverage2.png" />
